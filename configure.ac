@@ -20,7 +20,7 @@ AM_CONDITIONAL(UPDATE_PO, test "$with_po" = "yes")
 
 AC_OUTPUT([
 Makefile
-sftpanel/Makefile
+Panel_SFTEAM/Makefile
 PLi/Makefile
 PLi/SoftcamSetup/Makefile
 PLi/SoftcamSetup/src/Makefile
