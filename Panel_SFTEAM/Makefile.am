@@ -1,1 +1,1 @@
-SUBDIRS = sftpanel po
+SUBDIRS = sftpanel 
