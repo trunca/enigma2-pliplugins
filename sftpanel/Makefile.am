@@ -1,4 +1,4 @@
-installdir = $(pkglibdir)/python/Plugins/SystemPlugins/sftpanel
+installdir = $(pkglibdir)/python/Plugins/sftpanel
 
 
 
