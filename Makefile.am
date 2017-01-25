@@ -1,3 +1,3 @@
 AUTOMAKE_OPTIONS = gnu
 
-SUBDIRS = PLi Extensions Panel_SFTEAM
+SUBDIRS = PLi Extensions sftpanel
