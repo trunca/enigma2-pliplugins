@@ -22,6 +22,7 @@ AC_OUTPUT([
 Makefile
 Panel_SFTEAM/Makefile
 Panel_SFTEAM/sftpanel/src/Makefile
+Panel_SFTEAM/sftpanel/src/images/Makefile
 PLi/Makefile
 PLi/SoftcamSetup/Makefile
 PLi/SoftcamSetup/src/Makefile
