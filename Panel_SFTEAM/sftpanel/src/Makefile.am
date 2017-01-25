@@ -4,6 +4,8 @@ SUBDIRS = images
 
 install_PYTHON = \
                  *.py \
-				 sfpanel.png \
-				 epghosts.txt
+
+dist_install_DATA = \				 
+                     sfpanel.png \
+		     epghosts.txt
  
