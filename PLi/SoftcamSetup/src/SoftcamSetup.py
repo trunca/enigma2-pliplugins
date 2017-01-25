@@ -123,7 +123,7 @@ class SoftcamSetup(Screen, ConfigListScreen):
 			self["info"].setText("".join(ecmInfo))
 
 	def ppanelShortcut(self):
-		from Plugins.sftpanel.plugin import extrapanel
+		from Plugins.SystemPlugins.sftpanel.plugin import extrapanel
 		self.session.open(extrapanel)
 
 	def addonsyellow(self):
