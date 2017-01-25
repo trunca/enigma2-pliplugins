@@ -1,4 +1,4 @@
-installdir = $(LIBDIR)/enigma2/python/Plugins/Panel_SFTEAM/sftpanel
+installdir = $(LIBDIR)/enigma2/python/Plugins/sftpanel
 
 SUBDIRS = images
 
